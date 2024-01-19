@@ -1,2 +1,2 @@
 # hello-world
-testing
+Saying a bit about myself: I've a dog named Curry
